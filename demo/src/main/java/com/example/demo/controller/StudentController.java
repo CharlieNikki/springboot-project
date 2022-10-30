@@ -8,6 +8,6 @@ public class StudentController {
 
     @PostMapping("/getStudentInfo")
     public String getStudentInfo() {
-        return "涛涛纯纯fw";
+        return "涛涛纯纯fw  我错你妈妈段对";
     }
 }
